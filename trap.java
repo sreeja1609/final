@@ -7,4 +7,7 @@ class Trap{
         b=sc.nextInt();
         h=sc.nextInt();
     }
+    int division(int a){
+        return a/2;
+    }
 }
