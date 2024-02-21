@@ -7,4 +7,7 @@ class Trap{
         b=sc.nextInt();
         h=sc.nextInt();
     }
+    int add(int num1, int nnum2){
+        return num1+num2;
+    }
 }
