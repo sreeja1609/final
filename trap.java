@@ -10,4 +10,7 @@ class Trap{
     int division(int a){
         return a/2;
     }
+    int multiply(int num1, int num2){
+        return num1*num2;
+    }
 }
